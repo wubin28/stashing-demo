@@ -1,1 +1,3 @@
 Create a LocalChangeFile.txt in local master branch to try stashing.
+
+Update the local file LocalChangeFileToTryStashing.txt to try stashing.
